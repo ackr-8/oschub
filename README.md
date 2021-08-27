@@ -1,6 +1,9 @@
-Docker container for OSChub
 
-#### Personal notes
+# Docker container for OSChub
 
+## TODOs
 
-Procfile : gunicorn oschub.wsgi --log-file - ## for running the web server
+Update dockerfile for prod
+Add docker-compose with postgres db
+Add README
+Setup CI/CD pipeline with GH Actions
